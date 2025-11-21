@@ -1,4 +1,4 @@
-# HeatMapr
+# Heat Mapr
 
 Dead-simple, self-hosted analytics + click heatmaps — powered by a single JavaScript file.
 
